@@ -5,9 +5,9 @@ During my AI learning journey I have been testing different solutions, algorithm
 <b>*Note: list of forked repos might not be up to date*</b>
 
 ## List of functions 
-- [Cross Entropy](Cross Entropy)
+- [Cross Entropy](Cross%20Entropy)
 - [Softmax](Softmax)
-- [Perceptron Algorithm](Perceptron Algorithm) 
+- [Perceptron Algorithm](Perceptron%20Algorithm) 
 
 ## list of projects and problems
 - MNIST hand writen numbers with MLT nueral networks.
