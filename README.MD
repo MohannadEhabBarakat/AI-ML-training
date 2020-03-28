@@ -10,10 +10,9 @@ During my AI learning journey, I have been testing different solutions, algorith
 - [Perceptron Algorithm](Perceptron%20Algorithm) 
 
 ## list of projects and problems
-- MNIST handwritten numbers with MLT neural networks. (final touches )
-- MNISTfashion with MLT neural networks.
-- MNIST handwritten numbers with CNNs.
-- Music generation with CNNs
+- [MNIST fashion] (MNIST%20fashion%20PyToech%20MLT) with MLT neural networks.
+- MNIST handwritten numbers with CNNs. (needs final touches)
+- Music generation with CNNs. (Comming soon)
 - [Student Admission](student-admissions) - Given a list of exam scores expect weather student would be accepted or not
 
 ## list of nice courses I learned from
