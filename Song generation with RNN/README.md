@@ -1,5 +1,5 @@
 # Introduction
-This is a music genration using LSTM. 
+This is a music generation using LSTM. 
 
 # How to install
 - ` git clone https://github.com/MohannadEhabBarakat/AI-ML-training.git `
