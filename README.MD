@@ -12,7 +12,7 @@ During my AI learning journey, I have been testing different solutions, algorith
 ## list of projects and problems
 - [MNIST fashion](MNIST%20fashion%20PyToech%20MLT) with MLT neural networks.
 - MNIST handwritten numbers with CNNs. (needs final touches)
-- Music generation with CNNs. (Comming soon)
+- [Music generation with RNNs.](Song%20generation%20with%20RNN)
 - [Student Admission](student-admissions) - Given a list of exam scores expect weather student would be accepted or not
 
 ## list of nice courses I learned from
